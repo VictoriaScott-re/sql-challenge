@@ -6,12 +6,12 @@ As a new data engineer at Pewlett Hackard, my first major task is to conduct a r
 
 To begin, I inspected the provided CSV files and sketched an Entity Relationship Diagram (ERD) representing the tables needed to store the data.
 - [QuickDBD_Image](images/QuickDBD.png)
-- [departments csv file](EmployeesSQL/departments.csv)
-- [department employee csv file](EmployeesSQL/dept_emp.csv)
-- [department manager csv file](EmployeesSQL/dept_manager.csv)
-- [employees csv file](EmployeesSQL/employees.csv)
-- [salaries csv file](EmployeesSQL/salaries.csv)
-- [titles csv file](EmployeesSQL/titles.csv) 
+- [departments csv file](EmployeeSQL/departments.csv)
+- [department employee csv file](EmployeeSQL/dept_emp.csv)
+- [department manager csv file](EmployeeSQL/dept_manager.csv)
+- [employees csv file](EmployeeSQL/employees.csv)
+- [salaries csv file](EmployeeSQL/salaries.csv)
+- [titles csv file](EmployeeSQL/titles.csv) 
 
 ## Data Engineering
 
