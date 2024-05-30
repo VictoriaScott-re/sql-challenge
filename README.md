@@ -28,9 +28,9 @@ Once the data was properly structured in the database, I performed various data 
 3. [List the manager of each department along with their department number, department name, employee number, last name, and first name](images/mgr_deptid_dptnm_empid_lst_frst.png)
 4. [List the department number for each employee along with their employee number, last name, first name, and department name.](images/dptid_empid_frst_lst_dptname.png)
 5. [List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.](images/herc_b.png)
-6. [List each employee in the Sales department, including their employee number, last name, and first name.](images/emp_frst_lst_hd.png)
+6. [List each employee in the Sales department, including their employee number, last name, and first name.](images/empdpt_empid_lst_frst.png)
 7. [List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.](images/sales_dev_dpt_empid_lst_frst_dptname.png)
-8. [List the frequency counts, in descending order, of all the employee last names (i.e., how many employees share each last name).](images/mgr_deptid_dptnm_empid_lst_frst.png)
+8. [List the frequency counts, in descending order, of all the employee last names (i.e., how many employees share each last name).](images/emp_lstnm_freq_count.png)
 
 ## References
 
