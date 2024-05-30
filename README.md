@@ -1,4 +1,4 @@
-# Project Description
+# SQL Challenge
 
 -As a new data engineer at Pewlett Hackard, my first major task is to conduct a research project focused on employees hired during the 1980s and 1990s. To accomplish this, I will work on three main components: data modeling, data engineering, and data analysis.
 
