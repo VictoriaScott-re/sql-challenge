@@ -4,7 +4,7 @@ As a new data engineer at Pewlett Hackard, my first major task is to conduct a r
 
 ## Data Modeling
 
-- To begin, I inspected the provided CSV files and sketched an Entity Relationship Diagram (ERD) representing the tables needed to store the data.
+To begin, I inspected the provided CSV files and sketched an Entity Relationship Diagram (ERD) representing the tables needed to store the data.
 - [QuickDBD_Image](images/QuickDBD.png)
 - [departments csv file](EmployeesSQL/departments.csv)
 - [department employee csv file](EmployeesSQL/dept_emp.csv)
@@ -15,7 +15,7 @@ As a new data engineer at Pewlett Hackard, my first major task is to conduct a r
 
 ## Data Engineering
 
-- Next, I created table schemas for each of the six CSV files based on the information provided. The table schemas included specifications for data types, primary keys, foreign keys, and other constraints. Additionally, I ensured that primary keys are unique and created composite keys when necessary. The tables were created in the correct order to handle foreign keys, and each CSV file was imported into its corresponding SQL table. 
+Next, I created table schemas for each of the six CSV files based on the information provided. The table schemas included specifications for data types, primary keys, foreign keys, and other constraints. Additionally, I ensured that primary keys are unique and created composite keys when necessary. The tables were created in the correct order to handle foreign keys, and each CSV file was imported into its corresponding SQL table. 
 - [Table schemas](querytool/table_schemata.sql)
 
 ## Data Analysis
