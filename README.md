@@ -32,6 +32,11 @@ Once the data was properly structured in the database, I performed various data 
 7. [List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.](images/sales_dev_dpt_empid_lst_frst_dptname.png)
 8. [List the frequency counts, in descending order, of all the employee last names (i.e., how many employees share each last name).](images/mgr_deptid_dptnm_empid_lst_frst.png)
 
+# References
+
+1. QuickDBD Tool - [QuickDBD](https://app.quickdatabasediagrams.com)
+2. ChatGPT - [OpenAI](https://openai.com/chatgpt)
+3. Instructor helped with trouble shooting my csv file uploads
 
 
 
