@@ -20,8 +20,9 @@
 
 ## Data Analysis
 
-Once the data was properly structured in the database, I performed various data analysis tasks. [Queries](querytool/queries.sql)
--Images:
+Once the data was properly structured in the database, I performed various data analysis tasks. 
+- [Queries](querytool/queries.sql)
+- Images:
 1. [List the employee number, last name, first name, sex, and salary of each employee.](images/emp_num_lst_frst_sx_sal.png)
 2. [List the first name, last name, and hire date for the employees who were hired in 1986.](images/emp_frst_lst_hd.png)
 3. [List the manager of each department along with their department number, department name, employee number, last name, and first name](images/mgr_deptid_dptnm_empid_lst_frst.png)
